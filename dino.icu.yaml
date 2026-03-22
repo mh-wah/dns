@@ -634,7 +634,7 @@ mutate: # Pookstir U095D212WC8
 mysphere: # SLACK ID (U081RF7D23D) M__wahh on Slack !
   ttl: 600
   type: CNAME
-  value: https://mh-wah.github.io/mysphere-ysws/.
+  value: mh-wah.github.io.
   
 niilas: # Niilas - repo: https://github.com/niilasoika/niilas.dino.icu
   ttl: 600
