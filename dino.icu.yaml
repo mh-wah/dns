@@ -631,7 +631,7 @@ mutate: # Pookstir U095D212WC8
     type: CNAME
     value: cattacocattaco.github.io.
 
-mysphere: # SLACK ID (U081RF7D23D) M__wahh on Slack !
+mysphere: # U081RF7D23D
   ttl: 600
   type: CNAME
   value: mh-wah.github.io.
